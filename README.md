@@ -11,7 +11,7 @@ I'm a Data Analytics student with a passion for solving real-world problems usin
 - [🏆 Hackathon Projects](#-hackathon-projects)
 - [📊 Business & Data Visualization](#-business--data-visualization)
 - [📈 Regression & Statistical Modeling](#-regression--statistical-modeling)
-- [🛠️ Data Engineering](#-data-engineering)
+- [🛠️ Data Engineering](#data-engineering)
 
 
 ## ⭐ Featured Projects

@@ -8,6 +8,7 @@ I'm a Data Analytics student with a passion for solving real-world problems usin
 
 ## 🗂️ Table of Contents
 
+- [⭐ Featured Projects](#-featured-projects)
 - [📊 Business & Data Visualization](#-business--data-visualization)
 - [🏆 Hackathon Projects](#-hackathon-projects)
 - [📈 Regression & Statistical Modeling](#-regression--statistical-modeling)
@@ -25,7 +26,7 @@ I'm a Data Analytics student with a passion for solving real-world problems usin
 
 Built a scalable Excel tracker to analyze $70M in contingent labor costs across 300 supplier contracts, using data collected, cleaned, and synthesized from a $347M procurement portfolio. This tool supports negotiation strategies, future sourcing efforts, and centralizes vendor information to improve sourcing efficiency.
 - **Key Tools**: Excel, SAP Ariba
-- **Highlight**: Created an Excel-based analytics tool to streamline procurement operations
+- **Highlight**: Created an Excel-based analytics tool to streamline procurement operations.
 
   
 ### Working Group Dashboard Development  

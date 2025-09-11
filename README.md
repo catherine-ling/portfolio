@@ -16,10 +16,18 @@ I'm a Data Analytics student with a passion for solving real-world problems usin
 
 ---
 
-<!-- ## ⭐ Featured Projects
+## ⭐ Featured Projects
 
-> Projects that demonstrate a combination of technical depth, business impact, and real-world collaboration.
+> Projects from internships that demonstrate a combination of technical depth and business impact.
 
+### Contingent Labor Rate Tracker
+**For Honda (American Honda Motor Co.)** (Internship).
+
+Built a scalable Excel tracker to analyze $70M in contingent labor costs across 300 supplier contracts, using data collected, cleaned, and synthesized from a $347M procurement portfolio. This tool supports negotiation strategies, future sourcing efforts, and centralizes vendor information to improve sourcing efficiency.
+- **Key Tools**: Excel, SAP Ariba
+- **Highlight**: Created an Excel-based analytics tool to streamline procurement operations
+
+  
 ### Working Group Dashboard Development  
 **For NCDMM – America Makes** (Internship).
 
@@ -30,7 +38,7 @@ Built a complete data tracking and visualization system for NCDMM's working grou
 <br>
 
 --- 
--->
+
 
 ## 📊 Business & Data Visualization
 

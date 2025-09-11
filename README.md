@@ -26,6 +26,7 @@ I'm a Data Analytics student with a passion for solving real-world problems usin
 
 Built a scalable Excel tracker to analyze $70M in contingent labor costs across 300 supplier contracts, using data collected, cleaned, and synthesized from a $347M procurement portfolio. This tool supports negotiation strategies, future sourcing efforts, and centralizes vendor information to improve sourcing efficiency.
 - **Key Tools**: Excel, SAP Ariba
+- **Methods**: Data cleaning, pivot tables
 - **Highlight**: Created an Excel-based analytics tool to streamline procurement operations.
 
   
@@ -34,6 +35,7 @@ Built a scalable Excel tracker to analyze $70M in contingent labor costs across 
 
 Built a complete data tracking and visualization system for NCDMM's working groups, integrating data from multiple unstructured sources. Developed the organization’s first Power BI dashboards to monitor group progress and KPIs with automated updates.  
 - **Key Tools**: Power BI, Excel, Power Automate
+- **Methods**: ETL, dashboard development, KPI tracking
 - **Highlight**: Delivered end-to-end dashboard pipeline for live metrics. 
 
 <br>

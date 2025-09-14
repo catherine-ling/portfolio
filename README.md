@@ -47,16 +47,6 @@ Built a complete data tracking and visualization system for NCDMM's working grou
 
 > Projects focused on identifying trends, drawing business insights, and delivering visualizations using tools like Tableau and Power BI.
 
-### Working Group Dashboard Development  
-**For NCDMM – America Makes** (internship).
-
-Built a complete data tracking and visualization system for NCDMM's working groups, integrating data from multiple unstructured sources. Developed the organization’s first Power BI dashboards to monitor group progress and KPIs with automated updates.  
-- **Tools**: Power BI, Excel, Power Automate
-- **Methods**: Data cleaning, dashboard design, KPI tracking, automation pipelines
-- **Highlight**: Delivered end-to-end dashboard pipeline for live metrics. 
-
-Link: [Internal Company Project (Not Publicly Available)]
-
 ### OSU Football Concession Sales Analysis  
 **For Levy Restaurants** (capstone + consulting).
 
